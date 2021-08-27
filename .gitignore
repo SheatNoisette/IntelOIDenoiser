@@ -1,0 +1,5 @@
+ispc/
+oidn/
+*.so
+libOpenImageDenoise*
+bin/
